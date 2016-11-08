@@ -8,7 +8,9 @@ public class Class {
         System.out.println("updates line 3");
 
         System.out.println("line conflict in line 4 from dev 2");
+        System.out.println("dev 1 changes line 4");
 
+        System.out.println("added a different line 5 from dev1");
         System.out.println("added line 5 dev2");
 
 }
